@@ -9,4 +9,4 @@
 
 :black_square_button: Файл с прогонозом - prediction.csv
 
-https://colab.research.google.com/drive/1_nLOJQAdOofLh6WAP2dRzebWymoNksvC?usp=sharing
+:black_square_button: Ссылка на коллаб со всеми объяснениями - https://colab.research.google.com/drive/1_nLOJQAdOofLh6WAP2dRzebWymoNksvC?usp=sharing
